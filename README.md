@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**YUUUCC/YUUUCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love medicine and artificial intelligence!!!
 
-Here are some ideas to get you started:
+- 🏢 I'm currently studying in **West Chins School of Medicine**
+- 💻 I work using:
+  ![Python](https://img.shields.io/badge/-Python-white?style=plastic&logo=Python)
+  ![Git](https://img.shields.io/badge/-Git-white?style=plastic&logo=git)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=plastic&logo=PyCharm)
+  ![MySQL](https://img.shields.io/badge/-MySQL-white?style=plastic&logo=mysql)
+  ![Google Colab](https://img.shields.io/badge/Google%20Colab-FFFFFF?style=plastic&logo=google-colab)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
