@@ -2,7 +2,6 @@
 
 I love medicine and artificial intelligence!!!
 
-- 🏢 I'm currently studying in **West Chins School of Medicine**
 - 💻 I work using:
   ![Python](https://img.shields.io/badge/-Python-white?style=plastic&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-white?style=plastic&logo=git)
