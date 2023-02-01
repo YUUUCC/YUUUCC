@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I love medicine and artificial intelligence!!!
+I love artificial intelligence!!!
 
 - 💻 I work using:
   ![Python](https://img.shields.io/badge/-Python-white?style=plastic&logo=Python)
